@@ -1,0 +1,5 @@
+- [x] Remove age gate div from index.html
+- [x] Remove age gate JavaScript code from script.js
+- [x] Remove age gate CSS styles from styles.css
+- [x] Adjust navbar width in styles.css to match section containers
+- [x] Remove hamburger menu from mobile
